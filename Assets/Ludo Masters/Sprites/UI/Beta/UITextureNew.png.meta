@@ -1,0 +1,1496 @@
+fileFormatVersion: 2
+guid: ed98c029cd4915c4e90e566199766366
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3911970385172755842
+    second: UITextureNew_0
+  - first:
+      213: 2973664727288757984
+    second: UITextureNew_1
+  - first:
+      213: 7641558485048563293
+    second: UITextureNew_2
+  - first:
+      213: -3575882499203742057
+    second: UITextureNew_3
+  - first:
+      213: 4351072074943723687
+    second: UITextureNew_4
+  - first:
+      213: -1575003049142706699
+    second: UITextureNew_5
+  - first:
+      213: -5618433543784490601
+    second: UITextureNew_6
+  - first:
+      213: 5501749342106660234
+    second: UITextureNew_7
+  - first:
+      213: 7490677749519474838
+    second: UITextureNew_8
+  - first:
+      213: -1444946311157582104
+    second: UITextureNew_9
+  - first:
+      213: 8545540792246279610
+    second: UITextureNew_10
+  - first:
+      213: -3469684460480130308
+    second: UITextureNew_11
+  - first:
+      213: 6729999801392478296
+    second: UITextureNew_12
+  - first:
+      213: 6055007961667544601
+    second: UITextureNew_13
+  - first:
+      213: 5177066473746871019
+    second: UITextureNew_14
+  - first:
+      213: -2479695850913546796
+    second: UITextureNew_15
+  - first:
+      213: -232696899728491790
+    second: UITextureNew_16
+  - first:
+      213: -6002176674076013060
+    second: UITextureNew_17
+  - first:
+      213: 6594845656086144486
+    second: UITextureNew_18
+  - first:
+      213: -2084969929396607503
+    second: UITextureNew_19
+  - first:
+      213: -2886273094514098961
+    second: UITextureNew_20
+  - first:
+      213: 8692845720469677086
+    second: UITextureNew_21
+  - first:
+      213: -5173419796727505724
+    second: UITextureNew_22
+  - first:
+      213: -4617128338455497692
+    second: UITextureNew_23
+  - first:
+      213: 1583402902393011397
+    second: UITextureNew_24
+  - first:
+      213: -8350233311986713589
+    second: UITextureNew_25
+  - first:
+      213: 8802318995608451579
+    second: UITextureNew_26
+  - first:
+      213: 1433653631501582889
+    second: UITextureNew_27
+  - first:
+      213: -3858228110149690023
+    second: UITextureNew_28
+  - first:
+      213: 4506891810078682351
+    second: UITextureNew_29
+  - first:
+      213: 3917025349082415357
+    second: UITextureNew_30
+  - first:
+      213: -2325790511546868515
+    second: UITextureNew_31
+  - first:
+      213: -1688310192717027684
+    second: UITextureNew_32
+  - first:
+      213: -4306479812231108860
+    second: UITextureNew_33
+  - first:
+      213: 4953728132094319436
+    second: UITextureNew_34
+  - first:
+      213: -3458835471479444410
+    second: UITextureNew_35
+  - first:
+      213: 227955870483615932
+    second: UITextureNew_36
+  - first:
+      213: -367145939310160196
+    second: UITextureNew_37
+  - first:
+      213: -915120488827492840
+    second: UITextureNew_38
+  - first:
+      213: 398679948961680849
+    second: UITextureNew_39
+  - first:
+      213: -6039173662195312266
+    second: UITextureNew_40
+  - first:
+      213: 8501094213042796305
+    second: UITextureNew_41
+  - first:
+      213: 8617873988006306884
+    second: UITextureNew_42
+  - first:
+      213: -6295888091276428708
+    second: UITextureNew_43
+  - first:
+      213: -7779467720136358197
+    second: UITextureNew_44
+  - first:
+      213: -8666284981454188424
+    second: UITextureNew_45
+  - first:
+      213: 8996815059239617465
+    second: UITextureNew_46
+  - first:
+      213: 3688184563100664356
+    second: UITextureNew_47
+  - first:
+      213: 5851386109404549006
+    second: UITextureNew_48
+  - first:
+      213: 1255957888467473187
+    second: UITextureNew_49
+  - first:
+      213: -5990730424698033713
+    second: UITextureNew_50
+  - first:
+      213: -8675381709077315309
+    second: UITextureNew_51
+  - first:
+      213: 6580375128844596124
+    second: UITextureNew_52
+  - first:
+      213: -5922330105219830457
+    second: UITextureNew_53
+  - first:
+      213: 5848842722098261774
+    second: UITextureNew_54
+  - first:
+      213: -7157941591709344589
+    second: UITextureNew_55
+  - first:
+      213: 4576473781997470038
+    second: UITextureNew_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 417, z: 487, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UITextureNew_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 416
+        width: 535
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a0ee349a3e5b9c0800000000000000
+      internalID: -3911970385172755842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 787
+        width: 350
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeb7277054944920800000000000000
+      internalID: 2973664727288757984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_2
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1008
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5611b794f44c0a60800000000000000
+      internalID: 7641558485048563293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 916
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796cc6410d9ef5ec0800000000000000
+      internalID: -3575882499203742057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_4
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 789
+        width: 110
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8742bcffc126c30800000000000000
+      internalID: 4351072074943723687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 688
+        width: 452
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd11bf4217742ae0800000000000000
+      internalID: -1575003049142706699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_6
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 598
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799169ca5705702b0800000000000000
+      internalID: -5618433543784490601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_7
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 595
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8da18b80e32a5c40800000000000000
+      internalID: 5501749342106660234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_8
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 597
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690e703d9bb34f760800000000000000
+      internalID: 7490677749519474838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_9
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 596
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6f0f35cf482fbe0800000000000000
+      internalID: -1444946311157582104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_10
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 596
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd1377031cd79670800000000000000
+      internalID: 8545540792246279610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 509
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2936acd5439dfc0800000000000000
+      internalID: -3469684460480130308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_12
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 541
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b27c8923c56d50800000000000000
+      internalID: 6729999801392478296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 520
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9162b5b09a5b70450800000000000000
+      internalID: 6055007961667544601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_14
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 515
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be234425782a8d740800000000000000
+      internalID: 5177066473746871019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_15
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 511
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddb947f2c9569dd0800000000000000
+      internalID: -2479695850913546796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_16
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 512
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa395f076b45ccf0800000000000000
+      internalID: -232696899728491790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 284
+        width: 334
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd4096ad1cf3bca0800000000000000
+      internalID: -6002176674076013060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 312
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5ea87ee29958b50800000000000000
+      internalID: 6594845656086144486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_19
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 392
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5a1f655e2b013e0800000000000000
+      internalID: -2084969929396607503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_20
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 392
+        width: 100
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec38b4a9e5e1f7d0800000000000000
+      internalID: -2886273094514098961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_21
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 396
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14aed7402133a870800000000000000
+      internalID: 8692845720469677086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_22
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 376
+        width: 136
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc5516da125438b0800000000000000
+      internalID: -5173419796727505724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_23
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 244
+        width: 448
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42478ff1d3aacefb0800000000000000
+      internalID: -4617128338455497692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_24
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 343
+        width: 75
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc357dec8069f510800000000000000
+      internalID: 1583402902393011397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 213
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf56f4b030e1c80800000000000000
+      internalID: -8350233311986713589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_26
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 208
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf93ae46d7e182a70800000000000000
+      internalID: 8802318995608451579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 207
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922c99cc16c55e310800000000000000
+      internalID: 1433653631501582889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 193
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dd910c9f1d47ac0800000000000000
+      internalID: -3858228110149690023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 220
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec6bd40932bb8e30800000000000000
+      internalID: 4506891810078682351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_30
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 248
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0024c3dc11c5630800000000000000
+      internalID: 3917025349082415357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 59
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc56413ad129bfd0800000000000000
+      internalID: -2325790511546868515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 136
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c962e6423dae198e0800000000000000
+      internalID: -1688310192717027684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407e29f6d6f4c34c0800000000000000
+      internalID: -4306479812231108860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 74
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b575b7d7d2fb440800000000000000
+      internalID: 4953728132094319436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_35
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 103
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c62f1e67fbfffc0800000000000000
+      internalID: -3458835471479444410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_36
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 141
+        width: 260
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb014ac08acd92300800000000000000
+      internalID: 227955870483615932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_37
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 132
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6d0b2a6b2a7eaf0800000000000000
+      internalID: -367145939310160196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_38
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 127
+        width: 187
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81661c093c6dc43f0800000000000000
+      internalID: -915120488827492840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 70
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd8ee02d45688500800000000000000
+      internalID: 398679948961680849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 72
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67914f71d8b803ca0800000000000000
+      internalID: -6039173662195312266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_41
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 61
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1177b826524f9f570800000000000000
+      internalID: 8501094213042796305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_42
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 80
+        width: 281
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444e13e8bb6d89770800000000000000
+      internalID: 8617873988006306884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_43
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a3bd5532380a8a0800000000000000
+      internalID: -6295888091276428708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_44
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2
+        width: 147
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc687af6357c90490800000000000000
+      internalID: -7779467720136358197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870de1ea9bb2bb780800000000000000
+      internalID: -8666284981454188424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_46
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3ccd311ab1bdc70800000000000000
+      internalID: 8996815059239617465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_47
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422c1bdb1501f2330800000000000000
+      internalID: 3688184563100664356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f86be1aac443150800000000000000
+      internalID: 5851386109404549006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_49
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32314f29b0f0e6110800000000000000
+      internalID: 1255957888467473187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_50
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9afb24b66acdca0800000000000000
+      internalID: -5990730424698033713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_51
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311868bbc4ada9780800000000000000
+      internalID: -8675381709077315309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_52
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f89bb050325b50800000000000000
+      internalID: 6580375128844596124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_53
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d25cba528afcda0800000000000000
+      internalID: -5922330105219830457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_54
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fabcd97734b2150800000000000000
+      internalID: 5848842722098261774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_55
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 5
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc9b27fb02e9ac90800000000000000
+      internalID: -7157941591709344589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureNew_56
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 4
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65109d358a6e28f30800000000000000
+      internalID: 4576473781997470038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
